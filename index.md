@@ -5,3 +5,16 @@
                |
                
 ![フグ田タラオ](/images/F/Fuguta_Tarao_フグ田タラオ_1946.png)フグ田タラオ(1946-)
+
+function loadFunc() {
+ 
+    var canvas = document.getElementById( "stage" );
+    var ctx = canvas.getContext( "2d" );
+     
+    ctx.beginPath();
+    ctx.moveTo( 100, 100 );
+    ctx.lineTo( 400, 400 );
+    ctx.closePath();
+    ctx.stroke();
+ 
+}
