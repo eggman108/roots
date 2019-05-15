@@ -4,6 +4,6 @@
                                                                            |
                                                                            |
                
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　![フグ田タラオ](/images/F/Fuguta_Tarao_フグ田タラオ_1946.png)フグ田タラオ(1946-)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　![フグ田タラオ](/images/F/Fuguta_Tarao_フグ田タラオ_1946.png)フグ田タラオ(1946-)
 
 [磯野家](/Isono.md)
