@@ -1,5 +1,15 @@
 <script type="text/javascript">
 <!--
+document.write("ブラウザの名前 …… " + navigator.appName + "<br>");
+document.write("ブラウザのコード名 …… " + navigator.appCodeName + "<br>");
+document.write("ブラウザのバージョン …… " + navigator.appVersion + "<br>");
+document.write("プラットフォーム …… " + navigator.platform + "<br>");
+document.write("ユーザーエージェント …… " + navigator.userAgent + "<br>");
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
 function test() {
   //描画コンテキストの取得
   var canvas = document.getElementById('sample');
