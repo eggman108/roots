@@ -5,6 +5,7 @@
                     |                         | 
                                                                            
 ![磯野カツオ](/images/I/Isono_Katsuo_磯野カツオ_1938.png)磯野カツオ(1938-)
+![磯野ワカメ](/images/I/Isono_Wakame_磯野ワカメ_1942.png)磯野ワカメ(1942-)
 ![フグ田サザエ](/images/F/Fuguta_Sazae_フグ田サザエ_1922.png)フグ田サザエ(1922-)　===　
 ![フグ田マスオ](/images/F/Fuguta_Masuo_フグ田マスオ_1917.png)フグ田マスオ(1917-)
 
